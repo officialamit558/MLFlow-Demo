@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/amit7/Desktop/MLOps/MLFlow/mlruns/0/3df455c55a7d491dbaeb48e6ffbd9f70/artifacts
+end_time: 1711430946872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3df455c55a7d491dbaeb48e6ffbd9f70
+run_name: rare-goose-668
+run_uuid: 3df455c55a7d491dbaeb48e6ffbd9f70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711430924411
+status: 3
+tags: []
+user_id: amit7

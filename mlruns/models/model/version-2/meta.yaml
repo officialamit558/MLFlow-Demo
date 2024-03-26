@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1711431534350
+current_stage: None
+description: ''
+last_updated_timestamp: 1711431534350
+name: model
+run_id: 3df455c55a7d491dbaeb48e6ffbd9f70
+run_link: ''
+source: models:/model/1
+status: READY
+status_message: null
+storage_location: file:///C:/Users/amit7/Desktop/MLOps/MLFlow/mlruns/0/3df455c55a7d491dbaeb48e6ffbd9f70/artifacts/model
+user_id: null
+version: 2
