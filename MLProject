@@ -1,0 +1,8 @@
+name: wine_prediction
+
+conda_env : conda.yml
+
+entry_points: 
+  main:
+    command: "python train.py"
+    
